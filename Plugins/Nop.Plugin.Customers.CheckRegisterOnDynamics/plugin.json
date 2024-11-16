@@ -1,0 +1,11 @@
+﻿{
+  "Group": "Customer Techlabs-london",
+  "FriendlyName": "Check Register On Dynamics",
+  "SystemName": "MultiFactorAuth.GoogleAuthenticator",
+  "Version": "1.11",
+  "SupportedVersions": [ "4.50" ],
+  "Author": "Abdallah Refaey",
+  "DisplayOrder": 1,
+  "FileName": "Nop.Plugin.Customers.CheckRegisterOnDynamics.dll",
+  "Description": "This plugin for Task"
+}
